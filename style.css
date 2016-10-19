@@ -45,11 +45,11 @@ a:hover{
 /* First simple components*/
 
 .container{
-  width: 500px;
+  width: 700px;
   margin: 30px auto;
 }
 .card{
-  background: rgba(239, 252, 212, 0.4);
+  background: #effcd4;
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 100px;
