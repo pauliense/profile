@@ -83,7 +83,6 @@ a:hover{
   color: white;
 }
 
-
 #img-profile{
   width: 150px;
   height: 150px;
@@ -94,10 +93,14 @@ a:hover{
   font-size: 15px;
   line-height: 1.6em;
 }
-#movies img{
+
+.movie-pictures {width: 100px;
+border-radius: 30%;}
+
+/*#movies img{
   width: 80px;
   border-radius: 100px;
-}
+}*/
 #movies td{
   padding: 10px;
 }
