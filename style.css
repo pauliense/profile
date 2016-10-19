@@ -49,7 +49,7 @@ a:hover{
   margin: 30px auto;
 }
 .card{
-  background: #effcd4;
+  background: rgba(239, 252, 212, 0.4);
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 100px;
