@@ -96,6 +96,7 @@ a:hover{
 }
 #movies img{
   width: 80px;
+  border-radius: 10%;
 }
 #movies td{
   padding: 10px;
