@@ -28,7 +28,7 @@ h3{
 }
 
 p{
-  text-align: center;
+  text-align: justify;
 }
 
 a{
@@ -103,4 +103,8 @@ border-radius: 25%;}
 }*/
 #movies td{
   padding: 10px;
+}
+
+.about p {
+  text-align: center;
 }
