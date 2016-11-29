@@ -1,0 +1,22 @@
+.profile-header-wrapper {
+/*  background: #8B5FBF;*/
+/*  background: #A187C4;
+*/  background: #F0D6FF;
+    opacity: 0.8;
+}
+.profile-header-container img {
+  width: 100px;
+  border-radius: 50%;
+}
+.profile-header-container h1 {
+  font-size: 28px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+.profile-header-container h2 {
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+.profile-header-infos {
+  padding: 10px 0;
+}

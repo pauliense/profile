@@ -1,0 +1,132 @@
+
+@import url("tabs.css");
+@import url("profile_header.css");
+@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i,900,900i|Patrick+Hand+SC');
+
+
+/*body {
+  margin: 0;
+  font-family: Open-sans, sans-serif;
+}*/
+
+body{
+  background: #A187C4;
+/*  background: #8B5FBF;
+*/font-family: 'Patrick Hand SC', cursive;
+  color:  #090909;
+  font-size: 40px;
+  line-height: 1.6em;
+}
+
+h1, h2, h3{
+  font-family: 'Patrick Hand SC', cursive;
+}
+
+h1{
+  color: #62398E;
+  font-size: 50px;
+}
+
+h2{
+  font-size: 30px;
+  font-weight: 300;
+}
+
+h3{
+  font-size: 16px;
+  font-weight: 300;
+}
+p{
+  text-align: justify;
+}
+
+a{
+  color: #7A42B2;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #F0D6FF;
+  text-decoration: none;
+}
+
+.extra-wrapper {
+  background: #A187C4;
+}
+
+
+.card{
+  background: #F0D6FF;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 100px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+  opacity: 0.8;
+}
+
+.container-card{
+  margin: 30px auto;
+}
+
+.movie-picture {width: 150px;
+border-radius: 25%;}
+
+/*#movies img{
+  width: 80px;
+  border-radius: 100px;
+}
+#movies td{
+  padding: 10px;
+}
+*/
+
+
+
+/* First simple components
+
+
+
+.img-circle{
+  border-radius: 50%;
+}
+.text-center{
+  text-align: center;
+}
+.list-inline {
+  padding-left: 0;
+}
+.list-inline li {
+  display: inline-block;
+  padding: 20px;
+}
+.list-inline li i{
+  font-size: 25px;
+}
+
+
+#img-profile{
+  width: 150px;
+  height: 150px;
+  border: 3px solid #62398E;
+}
+#movies{
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+
+
+.about p {
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
